@@ -1,10 +1,13 @@
-Contents:
-1. Arrays
+Data Structure :-
+1. Stack / Queue
 2. Linked Lists - (Singly and Doubly linked list)
 3. Trees
 4. Tree Traversals
 5. BST
-6. Algorithms
-7. Djikstra and Prims
-8. Ford Fulkerson
-9. Bellman Ford
+
+Graph Algorithms :-
+6. BFS / DFS
+7. Prims / Kruskal
+8. Djikstra 
+9. Ford Fulkerson
+10. Bellman Ford
